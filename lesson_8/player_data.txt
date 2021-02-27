@@ -1,0 +1,3 @@
+{'name': 'hthth', 'games': 1, 'record': 6, 'avg_attempts': 6}
+{'name': 'fdddd', 'games': 1, 'record': 1, 'avg_attempts': 1}
+{'name': 'ggggg', 'games': 3, 'record': 2, 'avg_attempts': 5.5}
